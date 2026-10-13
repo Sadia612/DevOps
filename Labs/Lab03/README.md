@@ -15,3 +15,4 @@ This line was added locally.
 Second remote line from GitHub.
 Second local line
 test line 1
+uncommitted line
