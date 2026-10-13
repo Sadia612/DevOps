@@ -1,3 +1,4 @@
+
 # Lab 3
 This line was added remotely from GitHub.
 Line one
@@ -9,3 +10,4 @@ This line was added locally.
 
 
 Second remote line from GitHub.
+Second local line
