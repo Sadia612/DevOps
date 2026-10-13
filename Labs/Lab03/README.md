@@ -7,4 +7,5 @@ Line two
 Line three
 This line was added locally.
 
+
 Second remote line from GitHub.
