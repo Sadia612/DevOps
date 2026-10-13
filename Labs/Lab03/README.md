@@ -16,3 +16,4 @@ Second remote line from GitHub.
 Second local line
 test line 1
 uncommitted line
+test line A
